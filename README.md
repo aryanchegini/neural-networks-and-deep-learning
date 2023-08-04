@@ -1,11 +1,5 @@
 # Note:
-This is a fork, with the purpose of rewriting the original code to
-be supported by Python 3.
-
-I have left the original src dir untouched and all the new Python 3 code
-is in its corresponding src_python3 dir.
-
-I have included a new requirements.txt file.
+This is a fork including a copy of the book and the code in Python 3 version.
 # Code samples for "Neural Networks and Deep Learning"
 
 This repository contains code samples for my book on ["Neural Networks
